@@ -1,5 +1,6 @@
 {
     "name": "沿M型轨迹移动",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
